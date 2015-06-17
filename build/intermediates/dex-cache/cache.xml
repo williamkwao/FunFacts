@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/classes-c884d383481bcd84efecaf2688ec3949759347b5.jar" />
+    </item>
+    <item
+        jar="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/classes-d0ac3db83b075ddf8aa370906fffe843c04293fa.jar" />
+    </item>
+    <item
+        jar="/Users/willamkwao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-bb37a720b61fff7996d958e802e8b05dd0007e4d.jar" />
+    </item>
+    <item
+        jar="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/willamkwao/AndroidStudioProjects/FunFacts/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0d9ee1598a484c4a07a5ac931d720c857daea74c.jar" />
+    </item>
+
+</items>
